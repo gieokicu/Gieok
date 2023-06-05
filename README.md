@@ -32,13 +32,14 @@
 ![image](https://user-images.githubusercontent.com/108389588/212534580-b2549274-5547-45e0-8ded-98d56f29120e.png)
 
 - UI 디자인  
-https://www.figma.com/file/PdyvJkfA6g5cS68hADXEFW/Project_KG?type=design&node-id=5-186&t=wQubGrQMMfkcTjZb-0 
-![기억하자_피그마_1](https://github.com/gieokicu/Gieok/assets/74278791/1b11783e-2b7e-4755-8378-a505a867f5ec)
+  https://www.figma.com/file/PdyvJkfA6g5cS68hADXEFW/Project_KG?type=design&node-id=5-186&t=wQubGrQMMfkcTjZb-0 
+  ![기억하자_피그마_1](https://github.com/gieokicu/Gieok/assets/74278791/1b11783e-2b7e-4755-8378-a505a867f5ec)
   
 - ERD  
-https://www.erdcloud.com/d/mLF5wSFnyXe3udmJT
-![image](https://user-images.githubusercontent.com/108389588/212534594-896393b3-75db-462b-a48d-15152f3e8882.png)
+  https://www.erdcloud.com/d/mLF5wSFnyXe3udmJT
+  ![image](https://user-images.githubusercontent.com/108389588/212534594-896393b3-75db-462b-a48d-15152f3e8882.png)
   
+
 <br>
 
 ## 4. 팀원 소개
@@ -264,12 +265,15 @@ https://www.erdcloud.com/d/mLF5wSFnyXe3udmJT
 <hr style="border-style:dotted;" />
 
 ><b>허현주</b> <br><br> 
-느낀점 : <br>
-기능 구현 시 테이블 설계, 구현 방법 등에 대해서 잘 기획해놓고 진행할수록 이슈를 최소화하고 개발 시간을 단축할 수 있다는 것을 느꼈습니다. <br><br>
-어려웠던 부분 : <br>
-초반 기능 개발 시 큰 기능에 대한 것만 논의 후 진행하였습니다. 그러다 보니 개발 진행 중 각 기능에 대해 수시로 논의하고 진행하는데 많은 시간이 소요되었습니다. <br><br>
-어떻게 해결? : <br>
-기능 구현 시 사전에 가능한 팀원들과 함께 정리하고 기획하며 진행한 결과 좀 더 꼼꼼하게 기능을 구현하며 개발 시간을 단축할 수 있었습니다. 또한 개발 QA 진행 시 해당 내용을 바탕으로 이슈를 확인하고 수정할 수 있었습니다. <br><br>
-앞으로 계획 : <br>
-프로젝트를 진행하며 부족하다고 느꼈던 부분에 대해 좀 더 공부하며 향상 시킬 계획입니다.
-</p>
+>느낀점 : <br>
+>기능 구현 시 테이블 설계, 구현 방법 등에 대해서 잘 기획해놓고 진행할수록 이슈를 최소화하고 개발 시간을 단축할 수 있다는 것을 느꼈습니다. <br><br>
+>어려웠던 부분 : <br>
+>초반 기능 개발 시 큰 기능에 대한 것만 논의 후 진행하였습니다. 그러다 보니 개발 진행 중 각 기능에 대해 수시로 논의하고 진행하는데 많은 시간이 소요되었습니다. <br><br>
+>어떻게 해결? : <br>
+>기능 구현 시 사전에 가능한 팀원들과 함께 정리하고 기획하며 진행한 결과 좀 더 꼼꼼하게 기능을 구현하며 개발 시간을 단축할 수 있었습니다. 또한 개발 QA 진행 시 해당 내용을 바탕으로 이슈를 확인하고 수정할 수 있었습니다. <br><br>
+>앞으로 계획 : <br>
+>프로젝트를 진행하며 부족하다고 느꼈던 부분에 대해 좀 더 공부하며 향상 시킬 계획입니다.
+></p>
+
+
+
