@@ -114,7 +114,7 @@ https://www.erdcloud.com/d/mLF5wSFnyXe3udmJT
             - 주변시설 (등록/수정/삭제) <br>
             - 나의 동행 목록 <br>
             - 동행 수락 <br>
-            - 카카오 지도/주소 API 구현
+            - 카카오 지도/주소 API 구현 <br>
             - DB 설계 / 수정 <br>
             - 서버 세팅 및 배포 <br>
         </td>
